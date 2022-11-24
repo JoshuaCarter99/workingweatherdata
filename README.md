@@ -39,7 +39,7 @@ https://openweathermap.force.com/s/topic/0TO3i000000D2joGAC/faq
 
 ## Link
 Website: 
-https://joshuacarter99.github.io/workdayscheduler/
+https://joshuacarter99.github.io/workingweatherdata/
 
 Repo: 
 https://github.com/JoshuaCarter99/workingweatherdata/
